@@ -1,3 +1,14 @@
-# SkimLit_Project
+# SkimLit Project
 
-## In progress ...
+## Overview
+
+## Main Features
+
+## Usage
+
+## Project Structure
+
+## Technologies Used
+
+## License 
+
