@@ -10,10 +10,13 @@ The purpose of this project is to build an NLP model to make reading medical abs
 * Data preparation and prefetching preparation
 * Metrics comparative amonmg the different experiments 
 ## Usage
- 
+ 1. For experimentation process run the notebook SkimLit_project.ipynb
+ 2. Run SkimLit_Best_model.ipynb for the best model architechture
 ## Project Structure
-- SkimLit_project.ipynb          # Training and developing of the project 
-- SkimLit_Best_Model.ipynb       # Best model obtained
+- SkimLit_project.ipynb          # Training and developing notebook of the project 
+- SkimLit_Best_Model.ipynb       # Best model notebook
+- skimlit_tribid_model.keras     # Model
+- LICENSE
 - README.md                     
 ## Technologies Used
 * Jupyther Notebooks
@@ -23,4 +26,4 @@ The purpose of this project is to build an NLP model to make reading medical abs
 * Matplotlib
 * Pandas/Numpy
 ## License 
-
+This project is licensed under the MIT License. See the LICENSE file for details.
