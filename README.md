@@ -12,10 +12,9 @@ The purpose of this project is to build an NLP model to make reading medical abs
 ## Usage
  
 ## Project Structure
-├── SkimLit_project.ipynb          # Entrenamiento y desarrollo del modelo\n
-├── SkimLit_Best_Model.ipynb       # Uso del modelo ya entrenado\
-├── README.md                      # Este archivo
-
+- SkimLit_project.ipynb          # Training and developing oif the project 
+- SkimLit_Best_Model.ipynb       # Best model obtained
+- README.md                     
 ## Technologies Used
 * Jupyther Notebooks
 * Tensorflow/keras
