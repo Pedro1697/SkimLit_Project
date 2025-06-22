@@ -12,7 +12,7 @@ The purpose of this project is to build an NLP model to make reading medical abs
 ## Usage
  
 ## Project Structure
-- SkimLit_project.ipynb          # Training and developing oif the project 
+- SkimLit_project.ipynb          # Training and developing of the project 
 - SkimLit_Best_Model.ipynb       # Best model obtained
 - README.md                     
 ## Technologies Used
